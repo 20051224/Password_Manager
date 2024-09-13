@@ -1,7 +1,8 @@
 
 # Password_Manager
 
-Python tkinter UI 製作的密碼管理器
+Python tkinter UI + RSA_AES加密 
+密碼管理器
 
 <!-- PROJECT LOGO -->
 <br />
